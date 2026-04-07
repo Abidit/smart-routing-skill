@@ -130,6 +130,14 @@ This is a v1. Routing patterns, trigger phrases, and brief templates can all be 
 
 ---
 
+
+Note: Cowork ↔ Code routing is intentionally 
+conservative. Both tools have file access — 
+the skill only warns when the capability gap 
+is clear.
+
+---
+
 ## License
 
 MIT

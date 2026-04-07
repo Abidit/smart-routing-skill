@@ -1,0 +1,22 @@
+{
+    "plugins": [
+        {
+            "name": "smart-routing",
+            "description": "Detects when your request belongs in a different Claude tool (Chat, Cowork, or Code) and provides a ready-made brief to take there. Saves tokens, saves time, gets better results.",
+            "source": "./",
+            "skills": [
+                "./.claude/skills/smart-routing"
+            ],
+            "version": "1.0.0",
+            "author": "",
+            "license": "MIT",
+            "tags": [
+                "routing",
+                "workflow",
+                "productivity",
+                "global"
+            ],
+            "global": true
+        }
+    ]
+}
